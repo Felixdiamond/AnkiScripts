@@ -1,0 +1,12 @@
+{
+    "package": "ktr",
+    "name": "Kanji to Romanji",
+    "mod": 1640877602,
+    "conflicts": [],
+    "human_version": "0.1.0",
+    "min_point_version": 45,
+    "max_point_version": 45,
+    "branch_index": 0,
+    "branch_max": 0,
+    "branch_mod": 0
+  }  
